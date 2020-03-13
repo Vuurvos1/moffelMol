@@ -13,4 +13,4 @@ function random(seed) {
   return x - Math.floor(x);
 }
 
-document.querySelector('img').src = '../img/' + magicSeed + '.jpg';
+document.querySelector('img').src = 'img/' + magicSeed + '.jpg';
