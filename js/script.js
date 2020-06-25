@@ -1,4 +1,4 @@
-let images = 18;
+let images = 22;
 
 let date = new Date();
 let year = date.getFullYear();
